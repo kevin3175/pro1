@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: rgb(45, 75, 65);
+    font-style: italic;
+    background-color: rgb(182, 154, 120);
+    border: 8px;
+    border-style: ridge;
+    border-color: rgb(78, 32, 32);
+    border-radius: 12px;
+}
+#para{
+    border: 3px red solid;
+}
+table,th,td{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 70%;
+    text-align: center;
+}
+.parapara{
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: double;
+    background-color: rgb(232, 93, 93);
+    margin: 100px 150px;
+    padding: 55px 20px;
+}

@@ -1,0 +1,35 @@
+h1{
+    background-color: rgba(102, 0, 0, 0.922);
+    text-align: center;
+    margin: 0px 0px;
+    padding: 50px;
+    color: azure;
+    border: 2px;
+    border-style: outset;
+}
+.navbar{
+    background-color: rgb(162, 50, 50);
+    padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.intro{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 30px;
+    font-size: large;
+    background-color: azure;
+    border: 2px;
+    border-style: hidden;
+    padding: 10px;
+}
+.image{
+    padding: 5px 70px;
+    width: auto;
+    height: 150px;
+    margin: 0 auto;
+}
+.marquee{
+    color: beige;
+    background-color: rgb(134, 10, 10);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
